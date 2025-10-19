@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Scott Graves
 
-<!--
-**sgraves76/sgraves76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Architect** with over 25 years of experience designing and delivering **POS systems**, **embedded software**, and **cross-platform applications**.  
+I specialize in **modern C++ (C++20)**, **Go**, **Java**, **Dart/Flutter**, and **JavaScript**, building everything from embedded firmware and secure filesystems to scalable backend services and desktop/mobile apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Featured Project: [Repertory](https://github.com/BlockStorage1/repertory)
+**Repertory** is a cross-platform encrypted storage and FUSE/WinFSP-based filesystem written in **C++20**.  
+It produces portable static builds (`musl-libc`) and CI/CD pipelines using **Docker** + **Jenkins** for Linux x86_64/aarch64, macOS, and Windows x64.  
+The project highlights advanced use of **Boost**, **libsodium**, **cross-compilation**, and **secure architecture design**.
+
+---
+
+### ⚙️ Core Expertise
+- **Languages:** C++20, C#, Go, Java, Dart/Flutter, JavaScript, Embedded C  
+- **Domains:** POS architecture, embedded systems, device integration, encrypted storage, cross-platform middleware  
+- **Systems:** Linux, Windows, macOS  
+
+---
+
+### 🔗 Other Work
+- [Personal Self-Hosted Projects](https://git.fifthgrid.com)
+
+---
+
+### 💬 Contact
+📧 **scott.e.graves@proton.me**  
+💼 [LinkedIn](https://www.linkedin.com/in/scott-graves-620129362)
+
+---
