@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Scott Graves
 
 I'm a **Senior Software Architect** with over 25 years of experience designing and delivering **POS systems**, **embedded software**, and **cross-platform applications**.  
+
 I specialize in **modern C++ (C++20)**, **Go**, **Java**, **Dart/Flutter**, and **JavaScript**, building everything from embedded firmware and secure filesystems to scalable backend services and desktop/mobile apps.
 
 ---
 
 ### 🧩 Featured Project: [Repertory](https://github.com/BlockStorage1/repertory)
 **Repertory** is a cross-platform encrypted storage and FUSE/WinFSP-based filesystem written in **C++20**.  
+
 It produces portable static builds (`musl-libc`) and CI/CD pipelines using **Docker** + **Jenkins** for Linux x86_64/aarch64, macOS, and Windows x64.  
-The project highlights advanced use of **Boost**, **libsodium**, **cross-compilation**, and **secure architecture design**.
 
 ---
 
 ### ⚙️ Core Expertise
-- **Languages:** C++20, C#, Go, Java, Dart/Flutter, JavaScript, Embedded C  
-- **Domains:** POS architecture, embedded systems, device integration, encrypted storage, cross-platform middleware  
+- **Languages:** C++20, C#, Go, Java, Dart/Flutter, JavaScript, Embedded C
+  
+- **Domains:** POS architecture, embedded systems, device integration, encrypted storage, cross-platform middleware
+  
 - **Systems:** Linux, Windows, macOS  
 
 ---
