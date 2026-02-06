@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Scott Graves
 
-I'm a **Senior Software Architect** with over 25 years of experience designing and delivering **POS systems**, **embedded software**, and **cross-platform applications**.  
+I'm a **Senior Software Architect** with over 25 years of experience designing and delivering **avionics**, **POS systems**, **embedded software**, and **cross-platform applications**.  
 
-I specialize in **modern C++ (C++20)**, **C**, **Go**, **Java**, **Dart/Flutter**, and **JavaScript**, building everything from embedded firmware and secure filesystems to scalable backend services and desktop/mobile apps.
+I specialize in **modern C++ (C++23)**, **C**, **Go**, **Java**, **Dart/Flutter**, and **JavaScript**, building everything from embedded firmware and secure filesystems to scalable backend services and desktop/mobile apps.
 
 ---
 
@@ -14,9 +14,9 @@ It produces portable static builds (`musl-libc`) and CI/CD pipelines using **Doc
 ---
 
 ### ⚙️ Core Expertise
-- **Languages:** C++20, C#, Go, Java, Dart/Flutter, JavaScript, Embedded C
+- **Languages:** C++23, C#, Go, Java, Dart/Flutter, JavaScript, Embedded C
   
-- **Domains:** POS architecture, embedded systems, device integration, encrypted storage, cross-platform middleware
+- **Domains:** avionics, POS architecture, embedded systems, device integration, encrypted storage, cross-platform middleware
   
 - **Systems:** Linux, Windows, macOS  
 
