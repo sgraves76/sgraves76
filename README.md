@@ -6,7 +6,7 @@ I specialize in **modern C++ (C++23)**, **C**, **Go**, **Java**, **Dart/Flutter*
 
 ---
 
-### 🧩 Featured Project: [Repertory](https://github.com/BlockStorage1/repertory)
+### 🧩 Featured Project: [Repertory](https://github.com/sgraves76/repertory)
 **Repertory** is a cross-platform encrypted storage and FUSE/WinFSP-based filesystem written in **C++20**.  
 
 It produces portable static builds (`musl-libc`) and CI/CD pipelines using **Docker** + **Jenkins** for Linux x86_64/aarch64, macOS, and Windows x64.  
